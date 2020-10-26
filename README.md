@@ -11,7 +11,7 @@ able to distincly determine the properties of succesful campaigns, and unsuccess
 ## RESULTS:
 After analyzing the data several conclusions can be made. Firtly it can be concluded that campaings sorted into the "theater" category are most successful when launched in May and June. This can be seen in the *Theater Outcomes based on Launch Date* figure ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png).The number of successful campaings can be seen dramatically rising during these months.This suggests Louis will be most likely to succeed if she launches her campaign at this time. A second conclusing that can be made by observing the Theater Outcomes based on Launch Date is that failed campaings are much more even, without major spikes or booms in numbers based on launch date. This suggests other factors are more relevant to capmaigns failing, there isnt enough consistency to determine how launch date affects project failure. 
 
-A conclusion that can be made about the *Outcomes based on Goals visulaization*, ![image_name](path/to/image_name.png), is as follows; the highest percentage of campaigns (in this case plays) are most successful when the 
+A conclusion that can be made about the *Outcomes based on Goals visulaization*, ![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png), is as follows; the highest percentage of campaigns (in this case plays) are most successful when the 
 fundraising goal is below $15,000.00, or between $40,000 and $45,000
 
 This data set has a few limitations however that affect this project. A large limitation of this data is the lack on information on the funding received. The data does not contain any information on the individual
